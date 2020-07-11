@@ -1,0 +1,144 @@
+@media screen and (min-width: 992px)  and (max-width: 1199px){
+
+    /* Common */
+
+    /* Header */
+
+    /* About me */
+
+    /* Services */
+
+    /* Portfolio */
+
+    /* Blog */
+
+    .blog .post-desc a{
+        font-size: 1.24rem;
+    }
+
+    /* Contact */
+
+    /* Footer */
+
+}
+
+@media screen and (min-width: 768px)  and (max-width: 991px){
+    
+    /* Common */
+
+    /* Header */
+
+    .nav-i::before{
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    /* About me */
+
+    /* Services */
+
+    /* Portfolio */
+
+    .portfolio .pro-2 .overlay-box p{
+        padding: 0 10%;
+    }
+
+    /* Blog */
+
+    .blog .fix{
+        margin-top: 5px;
+    }
+    
+    /* Contact */
+
+    /* Footer */
+
+}
+
+@media screen and (min-width: 576px)  and (max-width: 767px){
+    
+    /* Common */
+
+    /* Header */
+    
+    .nav-i::before{
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    .head-content h1{
+        font-size: 3rem;
+    }
+    
+    .head-content p{
+        font-size: 1.5rem;
+
+    }
+
+    /* About me */
+
+    /* Services */
+
+    /* Portfolio */
+
+    .portfolio .pro-2 .overlay-box p{
+        padding: 0 0;
+    }
+
+    /* Blog */
+
+    .blog .post{
+        margin-bottom: 1.5rem;
+    }
+
+    /* Contact */
+
+    /* Footer */
+
+}
+
+@media screen and (min-width: 0px)  and (max-width: 575px){
+    
+    /* Common */
+
+    /* Header */
+    
+    .nav-i::before{
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    .head-content h1{
+        font-size: 3rem;
+    }
+    
+    .head-content p{
+        font-size: 1.5rem;
+
+    }
+
+    /* About me */
+
+    .about .fix{
+        margin-top: 1.5rem;
+    }
+
+    /* Services */
+
+    /* Portfolio */
+
+    .portfolio .pro-2 .overlay-box p{
+        padding: 0 0;
+    }
+
+    /* Blog */
+
+    .blog .post{
+        margin-bottom: 1.5rem;
+    }
+
+    /* Contact */
+
+    /* Footer */
+
+}
