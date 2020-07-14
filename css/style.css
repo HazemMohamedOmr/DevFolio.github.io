@@ -187,6 +187,7 @@ a:hover{
 
 .services .item{
     border-radius: 1rem;
+    margin-bottom: 2rem;
 }
 
 .services .serv-box{
@@ -239,6 +240,7 @@ a:hover{
 
 .services .counter p{
     margin-bottom: 0;
+    margin-bottom: -20px;
 }
 
 .services .counter .coun-ico{
